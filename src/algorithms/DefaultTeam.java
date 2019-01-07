@@ -6,9 +6,9 @@ import java.util.Random;
 
 /***************************************************************
  * TME 1: calcul de diametre et de cercle couvrant minimum.    *
- *   - Trouver deux points les plus éloignés d'un ensemble de*
+ *   - Trouver deux points les plus éloignés dun ensemble de*
  *     points donné en entrée.                               *
- *   - Couvrir l'ensemble de points donnee en entree par un    *
+ *   - Couvrir lensemble de points donnee en entree par un    *
  *     cercle de rayon minimum.                                *
  *                                                             *
  * class Circle:                                               *
