@@ -1,3 +1,3 @@
 # CercleMinimum
 
-Implémentation de lalgorithme de Ritter (DefaultTeam class).
+Implementation algorithme de Ritter (DefaultTeam class).
